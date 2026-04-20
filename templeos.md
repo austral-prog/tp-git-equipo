@@ -13,5 +13,7 @@ Despues de unos a(n)os de trabajo, Terry consiguio crear por su cuenta un lengua
 
 Este sistema operativo es similar a los antiguos proyectos de la primera era de la informatica, pero no deja de ser fascinante como la voluntad y la forma arquitectonica que estaba compuesto este OS haya sido escrita por una sola persona.
 
+Lamentablemente Terry Davis fallecio tras una crisis esquizofrenica en donde decidio acabar con su vida tirandose abajo de un tren, TempleOS es su legado y una prueba mas de que con Fe y Voluntad, nada es imposible.
+
 Si quieres visitar **TempleOS** por tu propia cuenta te recomiendo visitar la pagina:
 [TempleOS Official Website](https://templeos.org)
