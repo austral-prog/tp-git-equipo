@@ -2,7 +2,7 @@
 
 
 
-!\[Formula 1](imagenes/download.jpg)
+![Formula 1](imagenes/download.jpg)
 
 
 
