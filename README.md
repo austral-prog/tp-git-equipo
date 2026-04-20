@@ -13,3 +13,5 @@ Trabajo Práctico en Git del Taller
 6. [Videojogos 2026](Videojogos(4).md)
 7. Nasa Proyect
 8. pulseras
+9. [Sindarov](Sindarov.ipynb)
+
