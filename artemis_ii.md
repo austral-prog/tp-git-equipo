@@ -3,6 +3,8 @@
 > **Misión completada:** 1–10 de abril de 2026  
 > *El primer vuelo tripulado más allá de la órbita terrestre baja desde el Apollo 17 en 1972.*
 
+[Artemis II — Wikipedia](https://en.wikipedia.org/wiki/Artemis_II)
+
 ---
 
 ## ¿Qué fue Artemis II?
@@ -10,6 +12,8 @@
 Artemis II fue la primera misión tripulada del programa Artemis de la NASA. Su objetivo principal fue realizar un sobrevuelo lunar —un *flyby*— para validar los sistemas de soporte de vida de la nave *Orion* con astronautas a bordo por primera vez, y establecer las bases para futuras misiones de aterrizaje en la Luna.
 
 La misión no aterrizó en la Luna, sino que la rodeó, permitiendo a la tripulación recolectar datos científicos y probar los sistemas de la nave en el entorno del espacio profundo.
+
+[Página oficial de Artemis II — NASA](https://www.nasa.gov/mission/artemis-ii/)
 
 ![Lanzamiento Artemis II](lanzamiento-artemis.jpg)
 
@@ -81,3 +85,5 @@ Artemis II es la segunda misión de una serie progresiva de vuelos diseñados pa
 | **Artemis II** | 2026 | Sobrevuelo tripulado ✅ |
 | **Artemis III** | ~2027 | Prueba de módulos de aterrizaje comerciales en órbita terrestre |
 | **Aterrizaje lunar** | ~2028 | Primer alunizaje humano desde 1972 |
+
+[Regreso de la tripulación — NASA](https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/)
