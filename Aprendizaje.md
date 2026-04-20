@@ -83,4 +83,4 @@ Para profundizar en el estudio del mandarín, puedes consultar los siguientes si
 
 ## ¡Buena Suerte!
 
-![cafee732f46ff33dd1f5f7c647e1b415.jpg](480e5e8f-5b44-4079-8e34-6cc92ec9f057.jpg)
+![cafee732f46ff33dd1f5f7c647e1b415.jpg](Assets/cafee732f46ff33dd1f5f7c647e1b415.jpg)
