@@ -29,7 +29,7 @@ Los caracteres complejos suelen estar formados por piezas más pequeñas llamada
 
 > **Dato:** Existen aproximadamente 214 radicales tradicionales que forman la base de miles de caracteres.
 
-![20090529_Great_Wall_8185.jpg](20090529_Great_Wall_8185.jpg)
+![20090529_Great_Wall_8185.jpg](Assets/20090529_Great_Wall_8185.jpg)
 
 ## 3. Estructura Gramatical
 La gramática china es notablemente lógica y carece de las complicaciones de las lenguas romances.
@@ -45,7 +45,7 @@ La gramática china es notablemente lógica y carece de las complicaciones de la
 * **Español:** Yo como, tú comes, ellos comen.
 * **Chino:** 我吃 (Wǒ chī), 你吃 (Nǐ chī), 他们吃 (Tāmen chī).
 
-![D_NQ_NP_761387-MLA107833725238_032026-O.webp](D_NQ_NP_761387-MLA107833725238_032026-O.webp)
+![D_NQ_NP_761387-MLA107833725238_032026-O.webp](Assets/D_NQ_NP_761387-MLA107833725238_032026-O.webp)
 
 ## 4. Vocabulario de Práctica
 Aquí tienes algunas frases básicas para empezar a interactuar:
@@ -57,7 +57,7 @@ Aquí tienes algunas frases básicas para empezar a interactuar:
 * **我爱你** (Wǒ ài nǐ) - Te amo.
 * **再见** (Zàijiàn) - Adiós.
 
-![飞书20220516-220550.jpg](飞书20220516-220550.jpg)
+![飞书20220516-220550.jpg](Assets/飞书20220516-220550.jpg)
 
 ---
 ### Próximos pasos
@@ -79,7 +79,7 @@ Para profundizar en el estudio del mandarín, puedes consultar los siguientes si
 ---
 > **Consejo:** Si estás empezando, prioriza herramientas que tengan audio para no descuidar los tonos mientras aprendes los caracteres.
 
-![images.jpeg](images.jpeg)
+![images.jpeg](Assets/images.jpeg)
 
 ## ¡Buena Suerte!
 
