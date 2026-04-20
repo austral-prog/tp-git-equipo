@@ -1,7 +1,7 @@
 # Aprendizaje de Chino Mandarín: Conceptos Fundamentales
 Este Notebook está diseñado para servir como una guía de referencia rápida sobre los pilares del idioma chino. Exploraremos la fonética, la estructura de los caracteres y la lógica gramatical.
 
-![my-first-meme-restoration-social-credits-this-probably-has-v0-nzxcf6vxle081.png](374499a8-a4c6-4507-a32d-6d33b83e28c4.png)
+![my-first-meme-restoration-social-credits-this-probably-has-v0-nzxcf6vxle081.png](https://github.com/austral-prog/tp-git-equipo/blob/bautista_lalor/Assets/my-first-meme-restoration-social-credits-this-probably-has-v0-nzxcf6vxle081.png)
 
 ## 1. El Sistema Pinyin (拼音)
 El **Pinyin** es el sistema de transcripción fonética que utiliza el alfabeto latino para representar los sonidos del mandarín. Fue adoptado oficialmente en 1958 para facilitar la alfabetización y el aprendizaje a extranjeros.
