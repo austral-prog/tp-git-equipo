@@ -15,7 +15,7 @@ El significado de una palabra cambia según su tono. Es el desafío más común 
 4. **Cuarto Tono (\`):** Tono descendente y seco, como una orden. Ejemplo: `mà` (regañar).
 5. **Tono Neutro:** Ligero y corto. Ejemplo: `ma` (partícula interrogativa).
 
-![oar2.jpg](oar2.jpg)
+![oar2.jpg](Assets/oar2.jpg)
 
 ## 2. Los Caracteres (汉字 - Hànzì)
 A diferencia de los alfabetos fonéticos, el chino utiliza **logogramas**. Cada carácter representa una unidad de significado (morfema).
