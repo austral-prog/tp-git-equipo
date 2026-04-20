@@ -5,6 +5,6 @@ Trabajo Práctico en Git del Taller
 1. Luis Brandoni
 2. Boca Juniors
 3. TempleOS
-4. Aprendizaje
+4. [Aprendizaje](./Aprendizaje.md)
 5. OpenAI
 6. [Videojogos 2026](Videojogos(4).md)
