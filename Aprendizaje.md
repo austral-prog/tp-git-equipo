@@ -15,7 +15,7 @@ El significado de una palabra cambia según su tono. Es el desafío más común 
 4. **Cuarto Tono (\`):** Tono descendente y seco, como una orden. Ejemplo: `mà` (regañar).
 5. **Tono Neutro:** Ligero y corto. Ejemplo: `ma` (partícula interrogativa).
 
-![oar2.jpg](2ec73041-55e9-4ff1-a31e-9c5382977f83.jpg)
+![oar2.jpg](oar2.jpg)
 
 ## 2. Los Caracteres (汉字 - Hànzì)
 A diferencia de los alfabetos fonéticos, el chino utiliza **logogramas**. Cada carácter representa una unidad de significado (morfema).
@@ -29,7 +29,7 @@ Los caracteres complejos suelen estar formados por piezas más pequeñas llamada
 
 > **Dato:** Existen aproximadamente 214 radicales tradicionales que forman la base de miles de caracteres.
 
-![20090529_Great_Wall_8185.jpg](dfcdc50a-5565-467e-9046-11199ba02c70.jpg)
+![20090529_Great_Wall_8185.jpg](20090529_Great_Wall_8185.jpg)
 
 ## 3. Estructura Gramatical
 La gramática china es notablemente lógica y carece de las complicaciones de las lenguas romances.
@@ -45,7 +45,7 @@ La gramática china es notablemente lógica y carece de las complicaciones de la
 * **Español:** Yo como, tú comes, ellos comen.
 * **Chino:** 我吃 (Wǒ chī), 你吃 (Nǐ chī), 他们吃 (Tāmen chī).
 
-![D_NQ_NP_761387-MLA107833725238_032026-O.webp](f79c78ff-44a5-402a-a646-022ee8a78e5b.webp)
+![D_NQ_NP_761387-MLA107833725238_032026-O.webp](D_NQ_NP_761387-MLA107833725238_032026-O.webp)
 
 ## 4. Vocabulario de Práctica
 Aquí tienes algunas frases básicas para empezar a interactuar:
@@ -57,7 +57,7 @@ Aquí tienes algunas frases básicas para empezar a interactuar:
 * **我爱你** (Wǒ ài nǐ) - Te amo.
 * **再见** (Zàijiàn) - Adiós.
 
-![飞书20220516-220550.jpg](b34c92d1-6773-4cb4-94aa-c9bd78659f47.jpg)
+![飞书20220516-220550.jpg](飞书20220516-220550.jpg)
 
 ---
 ### Próximos pasos
@@ -79,7 +79,7 @@ Para profundizar en el estudio del mandarín, puedes consultar los siguientes si
 ---
 > **Consejo:** Si estás empezando, prioriza herramientas que tengan audio para no descuidar los tonos mientras aprendes los caracteres.
 
-![images.jpeg](df95767f-9282-44bb-824c-adc8344ed469.jpeg)
+![images.jpeg](images.jpeg)
 
 ## ¡Buena Suerte!
 
