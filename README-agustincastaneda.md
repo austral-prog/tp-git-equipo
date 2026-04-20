@@ -13,7 +13,7 @@ Será la primera vez desde 1972 que humanos viajen tan lejos en el espacio.
 Misiones como Artemis II dependen de software crítico:
 
 - Navegación de la nave  
-- ⚙Sistemas vitales  
+- Sistemas vitales  
 - Simulaciones previas  
 - Comunicación con la Tierra  
 
