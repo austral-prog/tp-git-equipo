@@ -7,4 +7,4 @@ Trabajo Práctico en Git del Taller
 3. TempleOS
 4. Aprendizaje
 5. OpenAI
-6. Videojogos 2026
+6. [Videojogos 2026](Videojogos (4).md)
