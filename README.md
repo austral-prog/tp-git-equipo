@@ -14,4 +14,4 @@ Trabajo Práctico en Git del Taller
 7. Nasa Proyect
 8. pulseras
 9. [Sindarov](Sindarov.ipynb)
-
+10. [Telescopio James Webb](telescopio_james_webb.ipynb)
