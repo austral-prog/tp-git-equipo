@@ -1,4 +1,4 @@
-<img width="562" height="342" alt="image" src="https://github.com/user-attachments/assets/43ebac03-e806-4c57-9196-98f05a2e92a7" /><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6fd9d96b-d186-4963-9e51-871913bfb2e7" /># Los estrenos más esperados para el mundo del cine 2026
+# Los estrenos más esperados para el mundo del cine 2026
 
 El 2026 se perfila como el año donde resurge el plan de ir al cine con amigos. Esto debido a que después de tanto tiempo empiezan a aparecer titulos que mueven a todo el mundo imposibles de perder. En este documento te voy a contar a que fechas tenes que estar atento para no perderte los mejores estrenos.
 
