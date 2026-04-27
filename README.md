@@ -19,4 +19,5 @@ Trabajo Práctico en Git del Taller
 12. ram_precio
 13. Michael Jackson
 14. [DLSS 5](DLSS5.ipynb)
-15. [Vacío de Boötes](Vacio_de_Bootes.ipynb)
+15. [Colapinto](la_vuelta_de_colapinto.md)
+16. [Vacío de Boötes](Vacio_de_Bootes.ipynb)
