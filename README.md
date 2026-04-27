@@ -8,3 +8,4 @@ Trabajo Práctico en Git del Taller
 4. Aprendizaje
 5. OpenAI
 6. Confilcto en Medio Oriente
+
