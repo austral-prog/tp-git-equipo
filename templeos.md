@@ -3,7 +3,7 @@
 
 TempleOS es un sistema operativo creado por Terry A. Davis, ingeniero electronico que debido a su creciente esquizofrenia, comenzo a creer (o quizas es cierto) que una voz divina lo habia seleccionado para crear el homenaje informatico mas grande hacia Dios.
 
-Despues de unos a(n)os de trabajo, Terry consiguio crear por su cuenta un lenguaje operativo con:
+Despues de unos a(n)os de trabajo, Terry consiguio crear por su cuenta un sistema operativo con:
 1. Lenguaje de Programacion (HolyC)
 2. Librerias graficas (estilo OpenGL)
 3. Funciones y matematicas complejas
