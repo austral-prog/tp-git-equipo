@@ -25,4 +25,5 @@ Trabajo Práctico en Git del Taller
 18. [San Lorenzo](sanlorenzo.ipynb)
 18. [Vacío de Boötes](Vacio_de_Bootes.ipynb)
 19. [Cine](Cine.md)
-18. [Galgos](Galgos.ipynb)
+20. [Galgos](Galgos.ipynb)
+21. [El primer commit del día: El ritual y la ingeniería detrás de un buen café](articulo_eugenio_navarro.ipynb)
