@@ -22,4 +22,5 @@ Trabajo Práctico en Git del Taller
 15. [Colapinto](la_vuelta_colapinto.md)
 16. Inter de Milan
 17. [Project Hailmary](project_hailmary.ipynb)
-18. [Cine](Cine.md)
+18. [Vacío de Boötes](Vacio_de_Bootes.ipynb)
+19. [Cine](Cine.md)
