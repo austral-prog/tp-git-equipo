@@ -19,3 +19,4 @@ Trabajo Práctico en Git del Taller
 12. ram_precio
 13. Michael Jackson
 14. [DLSS 5](DLSS5.ipynb)
+15. [Colapinto](La vuelta de Colapinto.md)
