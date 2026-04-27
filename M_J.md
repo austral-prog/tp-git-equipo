@@ -1,5 +1,7 @@
-Michael Jackson
-¿Quien es? Michael Jackson fue considerado uno de los artistas más influyentes de todos los tiempos, revolucionó la música, el baile y los videoclips, apodado como el "Rey del Pop"
+"Michael Jackson"
+
+¿Quien es? 
+Michael Jackson fue considerado uno de los artistas más influyentes de todos los tiempos, revolucionó la música, el baile y los videoclips, apodado como el "Rey del Pop"
 
 Discografia
 Got to be there
