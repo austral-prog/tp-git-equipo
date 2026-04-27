@@ -3,7 +3,7 @@
 El 2026 se perfila como el año donde resurge el plan de ir al cine con amigos. Esto debido a que después de tanto tiempo empiezan a aparecer titulos que mueven a todo el mundo imposibles de perder. En este documento te voy a contar a que fechas tenes que estar atento para no perderte los mejores estrenos.
 
 ## 1. Michael
-! {Texto] (https://cdn-pro.elsalvador.com/wp-content/uploads/2026/04/michael-jackson-pelicula.jpg)
+![](https://cdn-pro.elsalvador.com/wp-content/uploads/2026/04/michael-jackson-pelicula.jpg)
 
 "Michael es la pelicula autobigrafica que narra la vida de cantante Michael Jackson . Su estreno fue el 26 de Abril y ya se puede ver actualmente en cines. ES muy importante aclarar que si bien los críticos dicen que omiten gran parte de la vida del cantante, es una pelicula completamente recomendable para todos los fanáticos de Michael.
 
