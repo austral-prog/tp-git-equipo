@@ -16,7 +16,7 @@ Trabajo Práctico en Git del Taller
 9. [Sindarov](Sindarov.ipynb)
 10. [Telescopio James Webb](telescopio_james_webb.ipynb)
 11. [Artemis II](artemis_ii.md)
-12. ram_precio
+12. [ram_precio](Ram_Precio.ipynb)
 13. Michael Jackson
 14. [DLSS 5](DLSS5.ipynb)
 15. [Colapinto](la_vuelta_colapinto.md)
