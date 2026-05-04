@@ -6,7 +6,7 @@ Trabajo Práctico en Git del Taller
 
 1. Luis Brandoni
 2. [Formula 1](formula1.md) 
-2. Boca Juniors
+2. [Boca Juniors](boca-juniors.md)
 3. [TempleOS](./templeos.md)
 4. [Aprendizaje](./Aprendizaje.md)
 5. OpenAI
