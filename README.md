@@ -29,4 +29,5 @@ Trabajo Práctico en Git del Taller
 21. [El primer commit del día: El ritual y la ingeniería detrás de un buen café](articulo_eugenio_navarro.ipynb)
 22. [Padel](padel.md)
 23. Guerra del Emú
-    
+24. [River Plate](river-plate.md)
+
