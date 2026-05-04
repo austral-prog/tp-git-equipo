@@ -8,6 +8,8 @@
 
 5. El "Jugador Número 12"Boca es conocido como "La mitad más uno" porque, según la creencia popular, más de la mitad de Argentina es hincha del club. Su hinchada, denominada "La 12", es famosa por no dejar de cantar incluso cuando el equipo va perdiendo, concepto que se conoce como el "sentimiento xeneize".  Dato Curioso: Se les llama "Xeneizes" porque el barrio de La Boca estaba poblado mayoritariamente por inmigrantes genoveses. En su dialecto, "Xeneize" significa precisamente "genovés".
 
+gracias por su atencion 
+
 Links:
 https://www.youtube.com/watch?v=JnMYPFskEaw
 https://es.scribd.com/document/787599007/Historia-de-Boca-Juniors
