@@ -12,7 +12,7 @@ Trabajo Práctico en Git del Taller
 5. OpenAI
 6. [Videojogos 2026](Videojogos(4).md)
 7. Nasa Proyect
-8. [pulseras](pulseras.ipynb)
+8. [pulseras](pulseras.md)
 9. [Sindarov](Sindarov.ipynb)
 10. [Telescopio James Webb](telescopio_james_webb.ipynb)
 11. [Artemis II](artemis_ii.md)
