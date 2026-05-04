@@ -6,7 +6,7 @@ Trabajo Práctico en Git del Taller
 
 1. Luis Brandoni
 2. [Formula 1](formula1.md) 
-2. Boca Juniors
+2. [Boca Juniors](boca-juniors.md)
 3. [TempleOS](./templeos.md)
 4. [Aprendizaje](./Aprendizaje.md)
 5. OpenAI
@@ -29,3 +29,4 @@ Trabajo Práctico en Git del Taller
 21. [El primer commit del día: El ritual y la ingeniería detrás de un buen café](articulo_eugenio_navarro.ipynb)
 22. [Padel](padel.md)
 23. [Leandro_Paredes](Leandro_Paredes.ipynb) 
+24. Guerra del Emú
