@@ -6,13 +6,13 @@ Trabajo Práctico en Git del Taller
 
 1. Luis Brandoni
 2. [Formula 1](formula1.md) 
-2. Boca Juniors
+2. [Boca Juniors](boca-juniors.md)
 3. [TempleOS](./templeos.md)
 4. [Aprendizaje](./Aprendizaje.md)
 5. OpenAI
 6. [Videojogos 2026](Videojogos(4).md)
 7. Nasa Proyect
-8. pulseras
+8. [pulseras](pulseras.md)
 9. [Sindarov](Sindarov.ipynb)
 10. [Telescopio James Webb](telescopio_james_webb.ipynb)
 11. [Artemis II](artemis_ii.md)
@@ -28,3 +28,5 @@ Trabajo Práctico en Git del Taller
 20. [Galgos](Galgos.ipynb)
 21. [El primer commit del día: El ritual y la ingeniería detrás de un buen café](articulo_eugenio_navarro.ipynb)
 22. [Padel](padel.md)
+23. [Leandro_Paredes](Leandro_Paredes.ipynb) 
+24. Guerra del Emú
