@@ -30,4 +30,4 @@ Trabajo Práctico en Git del Taller
 22. [Padel](padel.md)
 23. [Leandro_Paredes](Leandro_Paredes.ipynb) 
 24. Guerra del Emú
-25. [Lionel Messi](tp-git-equipo/messi.md)
+25. [Lionel Messi](tp-git-equipo-main/messi.md)
