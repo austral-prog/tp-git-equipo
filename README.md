@@ -34,3 +34,4 @@ Trabajo Práctico en Git del Taller
 26. [River Plate](river-plate.md)
 27. [Herman Hesse](Herman_Hesse.md)
 28. [Budgetly](Budgetly.md)
+29. [Los Agujeros Negros](los_agujeros_negros.md)
